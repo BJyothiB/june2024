@@ -1,3 +1,4 @@
  remember me
 check box 
+email
 compose
